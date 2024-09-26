@@ -3,7 +3,7 @@
   "name": "food-order",
   "builds": [
     {
-      "src": "*.js",
+      "src": "app.js",
       "use": "@vercel/node"
     }
   ],
