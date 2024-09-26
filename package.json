@@ -9,7 +9,7 @@
     "prod": "SET NODE_ENV=PRODUCTION& nodemon backend/server",
     "seeder": "node utils/seeder.js"
   },
-  "author": "Richa",
+  "author": "Saurav",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^5.1.0",
